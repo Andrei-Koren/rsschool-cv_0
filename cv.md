@@ -22,9 +22,9 @@ _I want to learn Front-End Development in RSSchool!_
 
 
 ***
-***
 
- ### Code:
+
+ ###  Code:
  
         <?php 
         function Rus_word() {  //Create pseudo Russian words
@@ -42,9 +42,9 @@ _I want to learn Front-End Development in RSSchool!_
 
 
 ***
-***
+
 
 #### Language:
 - Russian
 - Belorussian
-- English with a dictionary *_;)_*
+- English with a dictionary *;)*
