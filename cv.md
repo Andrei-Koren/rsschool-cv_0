@@ -5,8 +5,8 @@
 ---
 ---
 ### [Contacts:](#)
-  * Discord: Andrei
-  * E-mail: andrei-ko@
+  * Discord: Andrei_K#1122
+  * E-mail: andrei-ko@tut.by
   * Tel: +375-29-1167597
 
 ***
