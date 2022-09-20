@@ -22,7 +22,7 @@ _I want to learn Front-End Development in RSSchool!_
 
 
 ***
-
+***
 
  ### Code:
  
@@ -42,7 +42,9 @@ _I want to learn Front-End Development in RSSchool!_
 
 
 ***
+***
+
 #### Language:
 - Russian
 - Belorussian
-- English with a dictionary _;)_
+- English with a dictionary *_;)_*
