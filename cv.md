@@ -22,6 +22,8 @@ _I want to learn Front-End Development in RSSchool!_
 
 
 ***
+
+
  ### Code:
  
         <?php 
@@ -36,6 +38,9 @@ _I want to learn Front-End Development in RSSchool!_
             return  $str;
             }
         ?>
+
+
+
 ***
 #### Language:
 - Russian
