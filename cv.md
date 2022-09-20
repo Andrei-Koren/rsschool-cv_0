@@ -1,9 +1,10 @@
 ## [rsschool-cv](#)
 ***
-***
+
 # Andrei Koran (Андрей Корень)
+
 ---
----
+
 ### [Contacts:](#)
   * Discord: Andrei_K#1122
   * E-mail: andrei-ko@tut.by
@@ -16,15 +17,14 @@ _I want to learn Front-End Development in RSSchool!_
 
 ***
 ### Skills
-+ HTML5, CSS3
-+ PHP
-+ JavaScript (Basics)
+  + HTML5, CSS3
+  + PHP
+  + JavaScript (Basics)
 
 
-***
+---
 
-
- ###  Code:
+###  Code:
  
         <?php 
         function Rus_word() {  //Create pseudo Russian words
@@ -40,9 +40,7 @@ _I want to learn Front-End Development in RSSchool!_
             }
         ?>
 
-
-***
-
+---
 
 #### Language:
 - Russian
